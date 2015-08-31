@@ -1,0 +1,18 @@
+{
+  "name": "myFavQuotes",
+  "version": "1.0.0",
+  "description": "A random selection of my favorite quotes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Devonta Harris",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "morgan": "^1.6.1"
+  }
+}
